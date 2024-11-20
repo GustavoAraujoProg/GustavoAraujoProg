@@ -21,9 +21,9 @@
  <br>
  <br>
  
-  [![GustavoStats](https://github-readme-stats.vercel.app/api?username=wagner12344)](https://github.com/anuraghazra/github-readme-stats)
+  [![GustavoStats](https://github-readme-stats.vercel.app/api?username=GustavoAraujoProg)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagner12344)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAraujoProg)](https://github.com/anuraghazra/github-readme-stats)
