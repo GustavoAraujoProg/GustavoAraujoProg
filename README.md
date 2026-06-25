@@ -57,13 +57,11 @@ Meu foco é utilizar a tecnologia para otimizar tempo e recursos, combinando des
 
 ### 📫 Conecte-se comigo:
 
-<p align="left">a
+<p align="left">
   <a href="https://www.instagram.com/gustavo_araujodev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:guhh.araujo1206@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>go=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
